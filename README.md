@@ -1,9 +1,9 @@
-#CAPSTONE PROJECT - CHAT ROOM
+# CAPSTONE PROJECT - CHAT ROOM
 
-#DESCRIPTION
+# DESCRIPTION
     - users will be able to login and create chat rooms with other users
 
-#MVP LIST
+# MVP LIST
     -users can register
     -users can login
     -users can create chat-rooms with other users
